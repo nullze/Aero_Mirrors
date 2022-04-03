@@ -2,6 +2,10 @@
 ### Tesla Model 3 Aero Mirror Delete Kit
 ----
 
+Aerodynamic Study of Tesla Model 3 for increased efficiency gains from removing mirrors. [Unplugged Performance](https://unpluggedperformance.com/aerodynamic-study-of-tesla-model-3/)
+
+**Result:** From a factory baseline Tesla Model 3, it was determined that removing the mirrors entirely resulted in a 2.8% total decrease in vehicle drag and a reduction of Cd by 0.006. 
+
 ![Tesla Model 3 Aero Mirror](https://cylect.io/assets/black_betty.jpg "Tesla Model 3 Aero Mirror Delete Kit")
 
 ----
