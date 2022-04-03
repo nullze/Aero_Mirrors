@@ -22,6 +22,8 @@ My Tweet: https://twitter.com/Nuzzl2/status/1510437428921729025
 
  - Step 2: Print files.
 
+   - ABS Plastic, .4mm Nozzle, Infill 20%, Low Quality (.28), Heated Bed Temp @ 100, Temp @ 240. 
+
  - Step 3: Remove mirrors. Plenty of videos online on Tesla stuff. Here is an example: [Take apart M3 Mirrors](https://www.youtube.com/watch?v=KcOESahdwmI)
 
  - Step 4: Carefully remove wifi and lte antennas from mirror assembly.
