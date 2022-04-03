@@ -8,7 +8,8 @@
 
 Blog Post Here: https://cylect.io/blog/Aero_Mirrors/
 
-My tweet: https://twitter.com/Nuzzl2/status/1510437428921729025
+My Tweet: https://twitter.com/Nuzzl2/status/1510437428921729025
+
 ---- 
 
 # Install Procedure
