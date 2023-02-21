@@ -12,8 +12,6 @@ Aerodynamic Study of Tesla Model 3 for increased efficiency gains from removing 
 
 Blog Post Here: https://cylect.io/blog/Aero_Mirrors/
 
-My Tweet: https://twitter.com/Nuzzl2/status/1510437428921729025
-
 ---- 
 
 # Install Procedure
