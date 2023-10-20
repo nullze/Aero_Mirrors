@@ -26,4 +26,4 @@ Blog Post Here: https://cylect.io/blog/Aero_Mirrors/
 
  - Step 4: Carefully remove wifi and lte antennas from mirror assembly.
 
- - Step 5: Carbon-Fibre Wrap or Matte Black Wrap Mirrors (Or use pretty 3D Filament), secure antennas to inside of printed file.
+ - Step 5: Carbon-Fibre Wrap or Matte Black Wrap Mirrors (Or use pretty 3D Filament), secure antennas to inside using simple 3M tape. (Retains full functionality)
