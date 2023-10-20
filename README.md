@@ -8,6 +8,9 @@ Aerodynamic Study of Tesla Model 3 for increased efficiency gains from removing 
 
 ![Tesla Model 3 Aero Mirror](https://www.teslaownersonline.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.teslaownersonline.com/attachments/tesla_aeromirrors_too-jpg.39299/)
 
+![Tesla Model 3 Aero Mirror]([https://www.teslaownersonline.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.teslaownersonline.com/attachments/tesla_aeromirrors_too-jpg.39299/](https://www.teslaownersonline.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.teslaownersonline.com/attachments/carbon_fiber-jpg.39372/))
+
+![Tesla Model 3 Aero Mirror](https://www.teslaownersonline.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.teslaownersonline.com/attachments/1626976924864-png.39304/)
 ----
 
 Blog Post Coming Soon! https://cylect.io
