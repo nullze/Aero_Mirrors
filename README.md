@@ -6,7 +6,7 @@ Aerodynamic Study of Tesla Model 3 for increased efficiency gains from removing 
 
 **Result:** From a factory baseline Tesla Model 3, it was determined that removing the mirrors entirely resulted in a 2.8% total decrease in vehicle drag and a reduction of Cd by 0.006. 
 
-![Tesla Model 3 Aero Mirror](https://cylect.io/assets/black_betty.jpg "Tesla Model 3 Aero Mirror Delete Kit")
+![Tesla Model 3 Aero Mirror](https://www.teslaownersonline.com/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.teslaownersonline.com/attachments/tesla_aeromirrors_too-jpg.39299/)
 
 ----
 
